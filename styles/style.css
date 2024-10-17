@@ -110,13 +110,10 @@ main {
     line-height:100%;
     text-transform:uppercase;
     letter-spacing: 30px;
-    
 }
 
 .aligned-text {
     display: block;
-    
-
 }
 .aligned-text_left {
     display: block;
@@ -150,7 +147,7 @@ main {
 }
 
 .cover__description-text {
-    z-index: 2; 
+    z-index: 2;
     display: block;
     color: #FFF;
     font-size: 21px;
@@ -200,7 +197,7 @@ main {
 
 .lots__card-list-item {
     top: 74px;
-    opacity: 0px;    
+    opacity: 0px;
 }
 
 .card-link {
