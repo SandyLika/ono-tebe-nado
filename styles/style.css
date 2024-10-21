@@ -23,7 +23,7 @@
     list-style:none;
 }
 
-.header__links-list-item{
+.header__links-list-item {
     text-underline-position: under;
     list-style:circle;
 }
